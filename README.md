@@ -11,3 +11,6 @@ The Texture Processor provides basic features for converting a wide range of mod
 ### KAOS Texture Compiler (KAOSTC)
 The Texture Compiler, commonly referring to as a sprite compiler, loads and converts image files in much the same way the Texture Processor does except that it generates directly executable Motorola MC6809 assembly language to draw the texture. The Texture compiler supports all image formats allowed by the Texture Processor plus the Piskel multi-frame sprite format.
 
+### Download
+
+The current version of the prototype tools can be downloaded [here](https://github.com/ChetSimpson/KAOSToolkit-Prototype/releases/tag/1.0.0).
